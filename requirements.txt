@@ -2,6 +2,8 @@ pandas
 numpy
 streamlit
 streamlit-aggrid
+altair<5
+pyarrow
 plotly
 tqdm
 unidecode
