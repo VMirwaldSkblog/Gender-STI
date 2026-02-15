@@ -125,7 +125,6 @@ with tab_comparativo:
             file_name=f"Comparativo_{mes1.replace('/','')}{ano1}_vs_{mes2.replace('/','')}{ano2}.csv",
             mime="text/csv"
         )
-
 with tab_carreira:
     st.header("Análise de Gênero por Nível de Carreira")
     
