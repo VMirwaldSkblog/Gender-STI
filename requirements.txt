@@ -7,3 +7,4 @@ pyarrow
 plotly
 tqdm
 unidecode
+imghdr
