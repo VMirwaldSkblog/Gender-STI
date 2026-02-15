@@ -1,10 +1,7 @@
 pandas
 numpy
-streamlit
+streamlit>=1.32.0
 streamlit-aggrid
 altair<5
 pyarrow
 plotly
-tqdm
-unidecode
-imghdr
